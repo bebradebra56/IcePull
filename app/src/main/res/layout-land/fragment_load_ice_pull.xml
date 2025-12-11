@@ -89,7 +89,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/ice_pull_land_back" />
+        app:srcCompat="@drawable/ice_pull_noti_land_back" />
 
     <TextView
         android:id="@+id/icePullNotifText"
